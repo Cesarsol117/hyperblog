@@ -1,0 +1,64 @@
+    1* 
+    2  cd ..
+    3  cd..
+    4  cd ..
+    5  cd ..
+    6  cd d
+    7  ls
+    8  cd users
+    9  ls
+   10  cd acer
+   11  ls
+   12  cd desktop
+   13  ls
+   14  cd Git_platzi
+   15  git init
+   16  ls
+   17  code Hello_world.txt
+   18  git status
+   19  git add.
+   20  git add .
+   21  git status
+   22  code Hello_world.txt
+   23  git status
+   24  git add .
+   25  git status
+   26  git commit -m "Se le agregan nuevas frases"
+   27  git status
+   28  git log .
+   29  git show
+   30  git commit
+   31  git add .
+   32  git commit
+   33  git commit
+   34  git commit -m "Se le agregan cosas para hacer"
+   35  git status
+   36  git show
+   37  git log
+   38  git diff 8952038f74c668394e98f470b2c6577cb8ece3b0 d1a4a4692ccc1529f4189984e9a1aa95f000c865
+   39  git diff d6ab2ecb87b7ded13a2e06cc943558d82dbeae8d 8952038f74c668394e98f470b2c6577cb8ece3b0
+   40  git status
+   41  git add .
+   42  git status
+   43  git status
+   44  git diff
+   45  git add .
+   46  git status
+   47  git commit -m "Welcome to html and css"
+   48  git status
+   49  git log
+   50  git add .
+   51  git status
+   52  git commit -m "Modified and add new lines"
+   53  git status
+   54  git status
+   55  git add .
+   56  git status
+   57  git commit -m "add thanks"
+   58  git status
+   59  git log
+   60  git log --stat
+   61  git checkout 8952038f74c668394e98f470b2c6577cb8ece3b0
+   62  git checkout master
+   63  histoy > history.txt
+   64  history > history.txt
