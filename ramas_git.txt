@@ -1,0 +1,153 @@
+    1* 
+    2  cd ..
+    3  cd..
+    4  cd ..
+    5  cd ..
+    6  cd d
+    7  ls
+    8  cd users
+    9  ls
+   10  cd acer
+   11  ls
+   12  cd desktop
+   13  ls
+   14  cd Git_platzi
+   15  git init
+   16  ls
+   17  code Hello_world.txt
+   18  git status
+   19  git add.
+   20  git add .
+   21  git status
+   22  code Hello_world.txt
+   23  git status
+   24  git add .
+   25  git status
+   26  git commit -m "Se le agregan nuevas frases"
+   27  git status
+   28  git log .
+   29  git show
+   30  git commit
+   31  git add .
+   32  git commit
+   33  git commit
+   34  git commit -m "Se le agregan cosas para hacer"
+   35  git status
+   36  git show
+   37  git log
+   38  git diff 8952038f74c668394e98f470b2c6577cb8ece3b0 d1a4a4692ccc1529f4189984e9a1aa95f000c865
+   39  git diff d6ab2ecb87b7ded13a2e06cc943558d82dbeae8d 8952038f74c668394e98f470b2c6577cb8ece3b0
+   40  git status
+   41  git add .
+   42  git status
+   43  git status
+   44  git diff
+   45  git add .
+   46  git status
+   47  git commit -m "Welcome to html and css"
+   48  git status
+   49  git log
+   50  git add .
+   51  git status
+   52  git commit -m "Modified and add new lines"
+   53  git status
+   54  git status
+   55  git add .
+   56  git status
+   57  git commit -m "add thanks"
+   58  git status
+   59  git log
+   60  git log --stat
+   61  git checkout 8952038f74c668394e98f470b2c6577cb8ece3b0
+   62  git checkout master
+   63  histoy > history.txt
+   64  history > history.txt
+   65  ls
+   66  cd ..
+   67  mkdir Git_practica
+   68  cd Git_practica
+   69  touch practica.txt & echo "archivo creado" & ls
+   70  echo "archivo creado" && ls
+   71  code practica.txt
+   72  git init
+   73  ls
+   74  git status
+   75  git add .
+   76  git status
+   77  git commit -m "this is a new file for practice and test"
+   78  git status
+   79  git status
+   80  git add .
+   81  git status
+   82  git commit -m "add new line"
+   83  git status
+   84  git log .
+   85  echo "se muestran todos los commits"
+   86  git show
+   87  git show; echo "se muestra los cambios hechos"
+   88  git status
+   89  git commit -m "add my last day"
+   90  git status
+   91  git add .
+   92  git status
+   93  git commit -m "add my last day"
+   94  git show; echo "se muestra los cambios hechos"
+   95  git log .
+   96  git diff 078c29c79e86d302e03412101739073acf92d484 e72da9cf0ce7c15b03134904e4b41aab4233dc48; echo "git diff muestra los cambios realizados entre un commit y otro"
+   97  git status
+   98  git log --stat
+   99  echo "git log --stat muestra cuantos cambios se han echo y se señalan con ++"
+  100  git log .
+  101  git checkout a0fa9f39d9d3e3a783f9143bb0f6fab0c9916796 practica.txt; echo "git nos devuelve a una version anterior o a cual quier version que deseemos"
+  102  head practica.txt
+  103  git checkout master; echo "volvemos al master donde esta los ultimos cambios"
+  104  history > history.txt
+  105  ls
+  106  git status
+  107  git add .
+  108  git commit -m "add class"
+  109* git 
+  110  git status
+  111  cd ..
+  112  cd git_platzi
+  113  ls
+  114  ls
+  115  git status
+  116  git commit -a
+  117  git add .
+  118  git status
+  119  git commit -a
+  120  git commit -m "ñadir nuevas cosas"
+  121  git status
+  122  git log .
+  123  git status
+  124  git show
+  125  git branch cabecera
+  126  git show
+  127  git status
+  128  git checkout cabecera
+  129  git status
+  130  git status
+  131  git add .
+  132  git commit -m "Se agrega el header"
+  133  git status
+  134  git show
+  135  git log .
+  136  git checkout master
+  137  git log .
+  138  git checkout cabecera
+  139  git status
+  140  git commit -am "se agregan estilos a la cabecera"
+  141  git status
+  142  git checkout master
+  143  git commit -am "se modifica styles y se agrega parrafo"
+  144  git status
+  145  git log .
+  146  git checkout cabecera
+  147  git checkout master
+  148  git status
+  149  git merge cabecera
+  150  git log .
+  151  git commit -am "volvi a una tipografia y se hizo el merge"
+  152  git log .
+  153  history > ramas_git.txt
