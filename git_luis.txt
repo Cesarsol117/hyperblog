@@ -1,0 +1,77 @@
+    1  git clone https://luchocalderon16@bitbucket.org/luchocalderon16/pruebagrupo54.git
+    2  git clone https://luchocalderon16@bitbucket.org/luchocalderon16/pruebagrupo54.git
+    3  git clone https://luchocalderon16@bitbucket.org/luchocalderon16/pruebagrupo54.git
+    4  git branch Avance_1
+    5  git branch Avance_1
+    6  git branch Avance_1
+    7  git branch Avance_2
+    8  git checkout Avance_1
+    9  GIT config --global user.email luchocalderon16@gmail.com
+   10  GIT config --global user.name Luis Alberto Calderon Ortega
+   11  GIT branch -d Avance_1
+   12  git clone https://luchocalderon16@bitbucket.org/luchocalderon16/pruebagrupo54.git
+   13  git branch -d Avance_1
+   14  git branch Avance_1
+   15  git --version
+   16  GIT config --global user.email “email”
+   17  GIT config --global user.name "username"
+   18  git config --list
+   19  GIT config --global user.email “email”
+   20  git config --list
+   21  git branch
+   22  git checkout master
+   23  git branch Avance_2
+   24  git checkout Avance_2
+   25  git branch
+   26  git checkout Avance_1
+   27  git branch -d Avance_1
+   28  git branch -d Avance_2
+   29  dir
+   30  cd "C:\Users\lacox\OneDrive\Documentos\Curso Henry\henrychallenge"
+   31  git clone https://github.com/checkpoint-soyhenry-org/2023-01-14-LuchoCalderon.git
+   32  code .
+   33  code .
+   34  code .
+   35  code .
+   36  ls
+   37  cd Documents/
+   38  mkdir git_prueba
+   39  cd git_prueba
+   40  git config
+   41  git config -l
+   42  git pull origin https://github.com/Cesarsol117/hyperblog.git
+   43  git pull origin https://github.com/Cesarsol117/hyperblog.git
+   44  git init
+   45  git status
+   46  git pull origin https://github.com/Cesarsol117/hyperblog.git
+   47  cd ..
+   48  mkdir Git_luis
+   49  cd Git_luis
+   50  git clone origin https://github.com/Cesarsol117/hyperblog.git
+   51  git clone https://github.com/Cesarsol117/hyperblog.git
+   52  ls -al
+   53  cd hyperblog/
+   54  ls -al
+   55  git status
+   56  git commit -am "aqui lo modifico luis"
+   57  git pull origin main
+   58  git branch
+   59  git log
+   60  git log --graph
+   61  git push origin main
+   62  git status
+   63  git pull origin footer
+   64  git checkout footer
+   65  git status
+   66  git branch
+   67  git status
+   68  git commit -am "se crea un archivo nuevo en footer"
+   69  git status
+   70  git commit -am "aqui se crea un archivo en la rama footer"
+   71  git add .
+   72  git status
+   73  git commit -m "aqui se crea un archivo en la rama footer"
+   74  git status
+   75  git pull origin footer
+   76  git push origin footer
+   77  history > git_luis.txt
