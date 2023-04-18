@@ -1,0 +1,106 @@
+    1  history
+    2  cd
+    3  ls
+    4  cd ..
+    5  ls
+    6  cd ..
+    7  ls
+    8  cd ..
+    9  cd d/users
+   10  ls
+   11  cd acer/desktop/
+   12  ls
+   13  cd Git_platzi
+   14  history
+   15  git log
+   16  graficasgit
+   17  alias
+   18  history
+   19  alias
+   20  git status
+   21  git pull origin main
+   22  git status
+   23  git log
+   24  git show -graph
+   25  git show
+   26  git checkout header
+   27  git status
+   28  git checkout main
+   29  git status
+   30  git commit -am "se agrega una carpeta con imagen"
+   31  git log --all --graph --decorate --oneline
+   32  alias graficas="git log --all --graph --decorate --oneline"
+   33  graficas
+   34  echo "se guarda un alias llamado graficas"
+   35  alias
+   36  git tag -a v0.1.1 -m "merge en main en github" 307fed8
+   37  git show--ref --tags
+   38  git show-ref --tags
+   39  git status
+   40  git add .
+   41  git status
+   42  git commit -am "se agrega una carpeta con imagen"
+   43  git status
+   44  git pull origin main
+   45  git push origin main
+   46  echo "se suben los tags a github"
+   47  git push origin --tags
+   48  echo "tags errados"
+   49  git tag -a v0.1.1 -m "prueba tags errados" 293d45c
+   50  git push origin main
+   51  git tag -a duerma -m "prueba tags errados" 293d45c
+   52  git push origin main
+   53  git push origin --tags
+   54  git tag
+   55  git tag -d duerma
+   56  git tag
+   57  git push origin main
+   58  git push origin --tags
+   59  git push origin :refs/tags/duerma
+   60  echo "se borraron los tag errados"
+   61  git branch
+   62  git show-branch
+   63  git show-branch --all
+   64  gitk
+   65  history
+   66  git status
+   67  git log
+   68  git log --stat
+   69* git checkot hea
+   70  git checkout header
+   71  graficas
+   72  git status
+   73  git add .
+   74  git status
+   75  git pull origin header
+   76  git push origin header
+   77  git checkout header
+   78  git checkout main
+   79  git status
+   80  git status
+   81  git checkout header
+   82  git status
+   83  git add imagen/wolf.png
+   84  git status
+   85  git commit -am "icono del header"
+   86  git status
+   87  git pull origin header
+   88  git push origin header
+   89  git status
+   90  git commit -am "color de fondo, color nuevo y mejor color del header"
+   91  git status
+   92  git checkout main
+   93  git checkout header
+   94  git pull origin footer
+   95  git checkout footer
+   96  git pull origin footer
+   97  git checkout main
+   98  git merge header
+   99  git pull origin main
+  100  git push origin main
+  101  git checkout main
+  102  git merge footer -m "se hace merge del footer"
+  103  graficas
+  104  git pull origin main
+  105  git push origin main
+  106  history > ramas_en_git_github.txt
