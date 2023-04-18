@@ -1,0 +1,2 @@
+aca se esta mdificando la rama footer
+se crea un archivo para cuando se haga merge no afecte ni lance conflictos.
