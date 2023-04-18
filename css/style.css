@@ -6,13 +6,27 @@ body{
     margin: 0;
     padding: 0;
 }
-.cabecera{
+
+/* .cabecera{
     font-size: 3rem;
     color: aqua;
     background-color: blueviolet;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
 
 
+} */
+#header{
+    background: #37488b;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5rem;
+
+}
+#header #logo{
+    width: 20px;
+    vertical-align: middle;
 }
 #contenedor{
     width: 70%;
@@ -24,5 +38,6 @@ body{
 
 #contenedor h1{
     font-size: 20px;
+    padding: 1rem;
     
 }
